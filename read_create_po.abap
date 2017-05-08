@@ -1,7 +1,5 @@
 *--------------------------------------------------------------------
 *
-* Erstellt von Ulli Hoffmann 23.05.2016
-*
 *  Bestellpositionen aus ERP übernehmen
 *  und neue Bestellungen sowie WE-Transport erzeugen
 *
